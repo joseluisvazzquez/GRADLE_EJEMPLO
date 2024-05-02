@@ -1,0 +1,59 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECTapp:buildapp",
+			"script": "app:build",
+			"description": "Assembles and tests this project.",
+			"group": "build",
+			"project": "app",
+			"buildFile": "C:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECT\\app\\build.gradle",
+			"rootProject": "GRADLEPROYECT",
+			"projectFolder": "c:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECT",
+			"workspaceFolder": "c:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECT",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:build"
+		},
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECTapp:testapp",
+			"script": "app:test",
+			"description": "Runs the test suite.",
+			"group": "verification",
+			"project": "app",
+			"buildFile": "C:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECT\\app\\build.gradle",
+			"rootProject": "GRADLEPROYECT",
+			"projectFolder": "c:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECT",
+			"workspaceFolder": "c:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECT",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:test"
+		},
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECTapp:cleanapp",
+			"script": "app:clean",
+			"description": "Deletes the build directory.",
+			"group": "build",
+			"project": "app",
+			"buildFile": "C:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECT\\app\\build.gradle",
+			"rootProject": "GRADLEPROYECT",
+			"projectFolder": "c:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECT",
+			"workspaceFolder": "c:\\Users\\alumne-DAM\\Documents\\CFGS\\GRADLE_EJEMPLO\\GRADLEPROYECT",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:clean"
+		}
+	]
+}
